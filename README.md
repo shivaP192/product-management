@@ -60,6 +60,7 @@ mvn spring-boot:run
   "id": "string",
   "name": "string",
   "price": "number"
+  "description": "string"
 }
 ```
 
