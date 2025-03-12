@@ -5,9 +5,9 @@ Here’s your updated **README.md** with MongoDB configuration, API endpoints, a
 ### **📦 Product API - Spring Boot with MongoDB**
 This is a **Spring Boot REST API** for managing products using **MongoDB** as the database.
 
-🔗 **Live API:** [Product API](https://nixxlo-8080.bytexl.dev/api/products)  
+🔗 **Live API:** [Product API](https://5an9v1-8080.bytexl.dev/products)  
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1Wv6kYSuUqjgx3g2jkb382MRzd1gRVTDb/view?usp=sharing)  
-🌐 **GitHub Repository:** [Product API GitHub](https://github.com/yashdongre12/product.git)
+🌐 **GitHub Repository:** [Product API GitHub](https://github.com/shivaP192/product-management)
 
 ---
 
