@@ -26,3 +26,15 @@ This project is bootstrapped with [Spring Initializr](https://start.spring.io/).
    ./gradlew bootRun
    ```   
 3. Refresh the URL in simple browser to see the output.    -->
+
+
+### **2️⃣ Configure MongoDB in `application.properties`**
+Update your **MongoDB credentials** in `src/main/resources/application.properties`:
+```properties
+spring.data.mongodb.host=bytexldb.com
+spring.data.mongodb.port=5050
+spring.data.mongodb.database=db_43asngdub
+spring.data.mongodb.username=user_43asngdub
+spring.data.mongodb.password=p43asngdub
+spring.data.mongodb.authentication-database=admin
+```
