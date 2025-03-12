@@ -21,7 +21,7 @@ This is a **Spring Boot REST API** for managing products using **MongoDB** as th
 ## **⚙️ Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yashdongre12/product.git
+git clone https://github.com/shivaP192/product-management
 cd product
 ```
 
