@@ -59,7 +59,7 @@ mvn spring-boot:run
 {
   "name": "string",
   "description": "string",
-  "price": double,
+  "price": "double",
   "quantity": "string",
   "category": "string"
 }
