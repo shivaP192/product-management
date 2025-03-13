@@ -57,10 +57,11 @@ mvn spring-boot:run
 ## **📜 Product Model**
 ```json
 {
-  "id": "string",
   "name": "string",
-  "price": "number"
-  "description": "string"
+  "description": "string",
+  "price": double,
+  "quantity": "string",
+  "category": "string"
 }
 ```
 
